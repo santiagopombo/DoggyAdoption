@@ -3,8 +3,8 @@
 # We have created a delivery pipeline
 applications:
 # We have reserved a name/route for your app
-- name: Doggy_Adoption
-  host: doggy
-  domain: alvaro.consoledemo.name
+- name: demo_dojo
+  host: demo_dojo
+  domain: hcf.helion.lol
   description : Simple demo app that has fun dog pictures.
   memory: 96M
